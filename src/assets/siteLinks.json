@@ -15,6 +15,11 @@
     "link": "https://bk.9277.eu.org/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://tz.1381.eu.org/"
+  },
+  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://im.aile.eu.org/"
@@ -29,9 +34,4 @@
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
   },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://tz.1381.eu.org/"
-  }
 ]
